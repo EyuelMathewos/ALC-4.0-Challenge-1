@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC Challenge One</string>
+    <string name="topText">Welcome  To ALC 4.0 </string>
+    <string name="aboutButton">About ALC</string>
+    <string name="profileButton">My Profile</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="photodesc">Profile Photo</string>
+    <string name="name">Eyuel Mathewos</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Ethiopia</string>
+    <string name="email">Email: eyuelmathewos@gmail.com</string>
+    <string name="phone">Phone number: +251932284373</string>
+    <string name="slack">Slack Username: @Eyuel Mathewos</string>
+</resources>
